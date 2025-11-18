@@ -39,7 +39,7 @@
 
 ### ✅ First: Star and Fork the Repo
 
-<a href='https://github.com/TristanCage/Ozeba-Xd/fork' target="_blank">
+<a href='https://github.com/TristanCage/Legend-Xd/fork' target="_blank">
   <img src='https://img.shields.io/badge/FORK_REPOSITORY-008000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000'/>
 </a>
 
@@ -48,12 +48,12 @@
 ### 🔗 Pairing Links
 
 > **PAIRING LINK (01)**  
-<a href='https://Legend-Xd-pairing.goodnesstechhost.xyz/' target="_blank">
+<a href='https://Legend-Xd-pairing.Legendtechhost.xyz/' target="_blank">
   <img src='https://img.shields.io/badge/PAIR_CODE_1-00FFFF?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
 </a>
 
 > **PAIRING LINK (02)**  
-<a href='https://Legend-Xd-pairing.goodnesstechhost.xyz/' target="_blank">
+<a href='https://Legend-Xd-pairing.Legendtechhost.xyz/' target="_blank">
   <img src='https://img.shields.io/badge/PAIR_CODE_2-FF00FF?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
 </a>
 
@@ -61,7 +61,7 @@
 
 ## ⚙️ Deployment Options
 
-<a href='https://Legend-Xd-pairing.goodnesstechhost.xyz/' target="_blank">
+<a href='https://Legend-Xd-pairing.Legendtechhost.xyz/' target="_blank">
   <img src='https://img.shields.io/badge/DEPLOYMENT_GUIDE-FF00FF?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
 </a>
 
@@ -74,8 +74,8 @@
 ```bash
 apt update && apt upgrade
 pkg install nodejs git
-git clone https://github.com/TristanCage/Ozeba-Xd
-cd Ozeba-Xd
+git clone https://github.com/TristanCage/Legend-Xd
+cd Legend-Xd
 npm install
 npm start
 ```
