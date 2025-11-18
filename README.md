@@ -48,12 +48,12 @@
 ### 🔗 Pairing Links
 
 > **PAIRING LINK (01)**  
-<a href='https://Legend-Xd-pairing.Legendtechhost.xyz/' target="_blank">
+<a href='https://OZEBA-Xd-pairing.Legendtechhost.xyz/' target="_blank">
   <img src='https://img.shields.io/badge/PAIR_CODE_1-00FFFF?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
 </a>
 
 > **PAIRING LINK (02)**  
-<a href='https://Legend-Xd-pairing.Legendtechhost.xyz/' target="_blank">
+<a href='https://Ozeba-Xd-pairing.Legendtechhost.xyz/' target="_blank">
   <img src='https://img.shields.io/badge/PAIR_CODE_2-FF00FF?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
 </a>
 
