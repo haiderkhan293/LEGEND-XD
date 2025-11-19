@@ -1,6 +1,6 @@
-# OZEBA XD
+# LEGEND XD
 <p align="center">
-  <img src="https://files.catbox.moe/3m1vb1.png" height="300" alt="OZEB XD Logo" />
+  <img src="https://files.catbox.moe/fl6zep.jpeg" height="300" alt="OZEB XD Logo" />
 </p>
 
 <p align="center">
