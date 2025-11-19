@@ -1,6 +1,6 @@
-# LEGEND XD
+# OZEBA XD
 <p align="center">
-  <img src=""https://files.catbox.moe/fl6zep.jpeg"  height="300" alt="LEGEND XD Logo" />
+  <img src="https://files.catbox.moe/3m1vb1.png" height="300" alt="OZEB XD Logo" />
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
     <img title="Followers" src="https://img.shields.io/github/followers/TristanCage?color=EB5406&style=for-the-badge&logo=github&logoColor=white">
   </a>
   <a href="https://github.com/TristanCage/Ozeba-Xd/">
-    <img title="Repo Size" src="https://img.shields.io/github/repo-size/TristanCage/Legend-Xd?style=for-the-badge&color=FFFF33&logo=docusign&logoColor=white">
+    <img title="Repo Size" src="https://img.shields.io/github/repo-size/TristanCage/Ozeba-Xd?style=for-the-badge&color=FFFF33&logo=docusign&logoColor=white">
   </a>
 </div>
 </p>
@@ -39,7 +39,7 @@
 
 ### ✅ First: Star and Fork the Repo
 
-<a href='https://github.com/TristanCage/Legend-Xd/fork' target="_blank">
+<a href='https://github.com/TristanCage/Ozeba-Xd/fork' target="_blank">
   <img src='https://img.shields.io/badge/FORK_REPOSITORY-008000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000'/>
 </a>
 
@@ -48,12 +48,12 @@
 ### 🔗 Pairing Links
 
 > **PAIRING LINK (01)**  
-<a href='https://OZEBA-Xd-pairing.Legendtechhost.xyz/' target="_blank">
+<a href='https://Ozeba-Xd-pairing.goodnesstechhost.xyz/' target="_blank">
   <img src='https://img.shields.io/badge/PAIR_CODE_1-00FFFF?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
 </a>
 
 > **PAIRING LINK (02)**  
-<a href='https://Ozeba-Xd-pairing.Legendtechhost.xyz/' target="_blank">
+<a href='https://Ozeba-Xd-pairing.goodnesstechhost.xyz/' target="_blank">
   <img src='https://img.shields.io/badge/PAIR_CODE_2-FF00FF?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
 </a>
 
@@ -61,7 +61,7 @@
 
 ## ⚙️ Deployment Options
 
-<a href='https://Legend-Xd-pairing.Legendtechhost.xyz/' target="_blank">
+<a href='https://Ozeba-Xd-pairing.goodnesstechhost.xyz/' target="_blank">
   <img src='https://img.shields.io/badge/DEPLOYMENT_GUIDE-FF00FF?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
 </a>
 
@@ -74,8 +74,8 @@
 ```bash
 apt update && apt upgrade
 pkg install nodejs git
-git clone https://github.com/TristanCage/Legend-Xd
-cd Legend-Xd
+git clone https://github.com/TristanCage/Ozeba-Xd
+cd Ozeba-Xd
 npm install
 npm start
 ```
@@ -86,10 +86,10 @@ npm start
 ## 🤝 SUPPORT GROUPS
 
 <p>
-  <a href="https://t.me/Legendxd_support">
+  <a href="https://t.me/ozebaxd_support">
     <img src="https://img.shields.io/badge/Telegram-00FFFF?style=for-the-badge&logo=telegram&logoColor=white">
   </a><br>
-  <a href="https://whatsapp.com/channel/0029VbAXrCE4inoytZqwGX38">
+  <a href="https://chat.whatsapp.com/F6gHdZDyBeAGNqGZUBUBxZ?mode=ems_copy_t">
     <img src="https://img.shields.io/badge/Support Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
 </p>
